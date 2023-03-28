@@ -1,5 +1,6 @@
 # ANGELINA POLYAKOVA 
 ## FUTURE FRONT-END DEVELOPER
+![avatar](assets/img/unnamed.webp)
 ## Contacts
 * Phone: +375 (29)210-06-60
 * E-mail: angelya.050492@gmail.com
@@ -20,18 +21,7 @@ I'm new to IT, but I believe that my purposefulness and desire to learn will hel
 - Vitebsk State Technological college
 - Belarusian State University (management);
 - RS School JavaScript/Front-end (in progress)
-## Code example
-```
-function explode(s) {
-  let arr = s.split('');
-  let result = '';
-  for (let elements of arr) {
-    let n = elements;
-    result += n.repeat(n);
-  }  
-  return result;
-}
-```
+
 ## Language
 + Russian - native
 + English - level A2
