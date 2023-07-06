@@ -378,6 +378,15 @@ margin-bottom: 60px;
   }
 }
 
+.code-container {
+  background-color: #f3ed7817;
+  box-shadow: 2px 3px 5px #af426125;
+  overflow: auto;
+  max-width: 80%;
+  border-radius: 20px;
+  margin-bottom: 30px;
+}
+
 .code {
   font-size: 1.6rem;  
 }
