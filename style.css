@@ -83,3 +83,16 @@ li {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; 
 }
+
+/* --------------MAIN------------ */
+
+.page {
+  width: 100%;
+  flex: 1 1 auto;
+  flex-wrap: wrap;
+}
+
+.page-container {
+  display: flex;
+  flex-direction: row-reverse;
+}
