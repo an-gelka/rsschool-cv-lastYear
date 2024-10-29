@@ -1,3 +1,3 @@
 # rsschool-cv
-- <https://an-gelka.github.io/rsschool-cv/cv>
-- <https://an-gelka.github.io/rsschool-cv/>
+- <https://an-gelka.github.io/rsschool-cv-lastYear/cv>
+- <https://an-gelka.github.io/rsschool-cv-lastYear/>
